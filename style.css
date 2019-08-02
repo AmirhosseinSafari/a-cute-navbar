@@ -3,3 +3,46 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body{
+    font-family: sans-serif;
+}
+
+nav{
+    height: 50px;
+    background: #5b78c7;
+}
+
+.nav-links{
+    display: flex;
+    list-style: none;
+    width: 50%;
+    /* background: #ae5fce; */
+    justify-content: space-around;
+    height: 100%;
+    align-items: center;
+    margin-left:auto; 
+}
+
+.nav-href{
+    text-decoration: none;
+    color: white;
+}
+
+.landing{
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.landing h1{
+    color: #5b78c7;
+    margin: 50px;
+    font-size: 50px;
+    
+}
+
+.landing{
+    text-decoration: 
+}
